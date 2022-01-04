@@ -1,14 +1,9 @@
 - 👋 Hi, I’m @Maccha-Azuki majoring in electronic information engineering at HEU
 - 👀 
-  - Taking notes in my repositories...
-  - C/C++/Swift
-  - VerilogHDL
+  - C
+    - for Arduino/STM32/TM4C Microcontrollers
   - Python
-  - Java(?)
-  - Writing a script
 - 🌱 
-  - Programming
-  - Writing a script
   - Swift Playground
   - Mathematics used in Digital Signal Processing
 - 📫 
