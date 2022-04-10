@@ -3,11 +3,11 @@
   - C
     - for Arduino/STM32/TM4C Microcontrollers
   - Python
-    - ...
+    - be like:
  ![real deep learning](https://github.com/Maccha-Azuki/Maccha-Azuki/blob/main/1DF42A697A1ECA7A9649FDBF2079B92D.jpg)
 - 🌱 
   - Swift Playground
-  - Mathematics used in Digital Signal Processing
+  - Mathematics
 - 📫 
   - [EMAIL](lightblue@drrr.us)
 
