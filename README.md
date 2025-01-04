@@ -6,8 +6,8 @@
     - be like:
  ![real deep learning](https://github.com/Maccha-Azuki/Maccha-Azuki/blob/main/1DF42A697A1ECA7A9649FDBF2079B92D.jpg)
 - 🌱 
-  - Swift Playground
-  - Mathematics
+  - CGM and LOOP for the aged
+  - Internet of Things
 - 📫 
   - [EMAIL](lightblue@drrr.us)
 
