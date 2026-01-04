@@ -10,6 +10,7 @@
   - Internet of Things
 - 📫 
   - [EMAIL](lightblue@drrr.us)
+![My GitHub Contributions](https://green-wall.leoku.dev/api/og/share/Maccha-Azuki?year=2025&theme=Violet&width=800)
 
 <!---
 Maccha-Azuki/Maccha-Azuki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
